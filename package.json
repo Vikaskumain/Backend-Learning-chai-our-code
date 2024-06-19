@@ -1,0 +1,18 @@
+{
+  "name": "backend--with--hitesh-sir",
+  "version": "1.0.0",
+  "description": "learning-Backend-day-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai",
+    "our",
+    "code"
+  ],
+  "author": "Vikas-kumain",
+  "license": "ISC"
+}
